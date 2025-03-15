@@ -13,6 +13,7 @@ Version **control** is an essential skill for _developers_ to master, and ~~Git~
 | Five   | Six    | $.99   |
 
 
+
 This is a footnote[^1]. Another footnote[^2].
 
 [^1]: My reference
