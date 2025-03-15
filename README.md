@@ -12,6 +12,25 @@ Version **control** is an essential skill for _developers_ to master, and ~~Git~
 | Three   | Four    | $120.00   |
 | Five   | Six    | $.99   |
 
+- [x] First
+   - [x] One
+   - [ ] Two
+- [ ]  Second
+
+```mermaid
+graph TD;
+   A-->B;
+   A-->C;
+```
+
+
+<details>
+   <summary>collapsed</summary>
+
+   # Header
+   This is the copy for the collapsed text.
+</details>
+
 
 This is a footnote[^1]. Another footnote[^2].
 
