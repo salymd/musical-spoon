@@ -1,0 +1,35 @@
+[33mcommit 53620188dc35046a29aba6446e95ef731896eef7[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;32mfix-classes[m[33m)[m
+Author: M Salyer <mike.d.salyer@gmail.com>
+Date:   Sat Mar 15 10:12:10 2025 -0400
+
+    Removed unwanted classes
+
+[33mcommit 98fea80da1460127f8f77db90506b1bda525d18e[m
+Author: M Salyer <mike.d.salyer@gmail.com>
+Date:   Mon Mar 10 16:49:00 2025 -0400
+
+    verifying commits
+
+[33mcommit ac36d09beec8d7436a1fc10b526b3f9884b9ba38[m
+Author: M Salyer <mike.d.salyer@gmail.com>
+Date:   Sun Mar 9 14:42:09 2025 -0400
+
+    Simplified text-uppercase
+
+[33mcommit 769f30d299cc17bc42028ef9e98efce9eeea2c86[m
+Author: M Salyer <mike.d.salyer@gmail.com>
+Date:   Sun Mar 9 14:31:56 2025 -0400
+
+    Moved files to docs folder
+
+[33mcommit a15a1a4b8659e24f9e64005785958c8c6d31bc7f[m
+Author: M Salyer <mike.d.salyer@gmail.com>
+Date:   Sun Mar 9 14:12:51 2025 -0400
+
+    Add .gitignore file
+
+[33mcommit 626bb274fe65bfd90af733fbffbd753a2a74c087[m
+Author: M Salyer <mike.d.salyer@gmail.com>
+Date:   Sun Mar 9 13:59:58 2025 -0400
+
+    First Commit
