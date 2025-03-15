@@ -32,6 +32,7 @@ graph TD;
 </details>
 
 
+
 This is a footnote[^1]. Another footnote[^2].
 
 [^1]: My reference
